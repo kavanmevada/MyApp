@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

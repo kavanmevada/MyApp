@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:8:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kavanmevada/.android/build-cache/2037ff3fd849f13bc169d68355d1586bc53a3e33/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kavanmevada/.android/build-cache/10bc1333eeb92e5b8d28d5331081c73d3ab4ca2f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kavanmevada/.android/build-cache/2dba175916dcbadaca99e1f9d5d248e00ae93283/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kavanmevada/.android/build-cache/965000aee0ddd031abb0407185361f0a2271d52b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/2a94def713816c7563b57b7371328c9cecb128d1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/6e93f48d92bc16025617567677e6532b02207e7b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kavanmevada/.android/build-cache/6d945ac22a75503154acc45d0b5bcba5f3f7acfe/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kavanmevada/.android/build-cache/e9bff30db45849bc13d8d36fc49f435a0beef323/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kavanmevada/.android/build-cache/a0b4b336c2c192699f669cfc7af4377fc9cf3d16/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.kavanmevada.myapp.MainActivity
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:configChanges
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:15:48-109
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.kavanmevada.myapp.AlbumListView
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:22:19-48
+service#com.example.kavanmevada.myapp.MusicPlaybackServie
+ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:23:9-85
+	android:name
+		ADDED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml:23:18-82
+uses-sdk
+INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kavanmevada/.android/build-cache/2037ff3fd849f13bc169d68355d1586bc53a3e33/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kavanmevada/.android/build-cache/10bc1333eeb92e5b8d28d5331081c73d3ab4ca2f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kavanmevada/.android/build-cache/2dba175916dcbadaca99e1f9d5d248e00ae93283/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kavanmevada/.android/build-cache/965000aee0ddd031abb0407185361f0a2271d52b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/2a94def713816c7563b57b7371328c9cecb128d1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/6e93f48d92bc16025617567677e6532b02207e7b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kavanmevada/.android/build-cache/6d945ac22a75503154acc45d0b5bcba5f3f7acfe/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/kavanmevada/.android/build-cache/1e87b80bc364b10065171efe1133066c54c009f4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kavanmevada/.android/build-cache/e9bff30db45849bc13d8d36fc49f435a0beef323/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kavanmevada/.android/build-cache/a0b4b336c2c192699f669cfc7af4377fc9cf3d16/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/OTHER/kavanmevada/AndroidStudioProjects/MyApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/kavanmevada/.android/build-cache/2037ff3fd849f13bc169d68355d1586bc53a3e33/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/kavanmevada/.android/build-cache/10bc1333eeb92e5b8d28d5331081c73d3ab4ca2f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/kavanmevada/.android/build-cache/2dba175916dcbadaca99e1f9d5d248e00ae93283/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/kavanmevada/.android/build-cache/965000aee0ddd031abb0407185361f0a2271d52b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/2a94def713816c7563b57b7371328c9cecb128d1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/kavanmevada/.android/build-cache/6e93f48d92bc16025617567677e6532b02207e7b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/kavanmevada/.android/build-cache/1e87b80bc364b10065171efe1133066c54c009f4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/kavanmevada/.android/build-cache/e9bff30db45849bc13d8d36fc49f435a0beef323/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/kavanmevada/.android/build-cache/a0b4b336c2c192699f669cfc7af4377fc9cf3d16/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/kavanmevada/.android/build-cache/ecb62be410ce8d3c665f59de80423d9db73a475d/output/AndroidManifest.xml:26:9-47
